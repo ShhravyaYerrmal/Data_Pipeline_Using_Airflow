@@ -1,0 +1,4 @@
+[[34m2023-02-13 15:12:15,239[0m] {[34mwebserver_command.py:[0m257} ERROR[0m - [1 / 1] Some workers seem to have died and gunicorn did not restart them as expected[0m
+[[34m2023-02-13 16:45:27,260[0m] {[34mwebserver_command.py:[0m257} ERROR[0m - [2 / 2] Some workers seem to have died and gunicorn did not restart them as expected[0m
+[[34m2023-02-13 17:04:56,455[0m] {[34mwebserver_command.py:[0m257} ERROR[0m - [2 / 2] Some workers seem to have died and gunicorn did not restart them as expected[0m
+[[34m2023-02-13 17:11:39,442[0m] {[34mwebserver_command.py:[0m257} ERROR[0m - [2 / 2] Some workers seem to have died and gunicorn did not restart them as expected[0m

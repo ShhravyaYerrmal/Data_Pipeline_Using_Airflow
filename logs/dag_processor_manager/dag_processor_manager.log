@@ -1,0 +1,95 @@
+[2023-02-14T00:48:16.218-0500] {manager.py:483} INFO - Processing files using up to 1 processes at a time 
+[2023-02-14T00:48:16.218-0500] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2023-02-14T00:48:16.218-0500] {manager.py:485} INFO - Checking for new files in /Users/shravyayermal/airflow/twitter_dag every 300 seconds
+[2023-02-14T00:48:16.218-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T00:48:16.218-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T00:53:16.552-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T00:53:16.557-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T00:58:16.691-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T00:58:16.695-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:03:17.374-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:03:17.377-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:08:17.592-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:08:17.594-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:13:17.831-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:13:17.832-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:18:18.053-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:18:18.056-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:23:18.167-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:23:18.170-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:28:18.506-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:28:18.507-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:33:19.526-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:33:19.528-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:38:20.009-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:38:20.011-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:56:18.474-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T01:56:18.475-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T02:13:09.147-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T02:13:09.147-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T02:30:22.025-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T02:30:22.108-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T02:48:11.985-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T02:48:11.985-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T02:54:08.992-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T02:54:09.036-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T03:10:01.916-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T03:10:01.917-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T03:24:35.238-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T03:24:35.238-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T03:43:14.396-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T03:43:14.397-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T03:48:14.759-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T03:48:14.761-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T03:53:15.425-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T03:53:15.427-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T03:58:16.247-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T03:58:16.249-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T04:16:16.052-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T04:16:16.053-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T04:32:06.288-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T04:32:06.289-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T04:48:06.948-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T04:48:06.948-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T05:04:08.618-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T05:04:08.619-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T05:21:06.544-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T05:21:06.637-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T05:38:27.514-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T05:38:27.515-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T05:54:18.512-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T05:54:18.610-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T06:10:54.549-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T06:10:54.550-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T06:29:19.440-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T06:29:19.440-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T06:46:39.002-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T06:46:39.006-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T07:02:48.878-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T07:02:48.879-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T07:19:23.751-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T07:19:23.751-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T07:30:16.213-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T07:30:16.214-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T07:47:24.633-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T07:47:24.634-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T08:04:43.568-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T08:04:43.569-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T08:21:31.497-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T08:21:31.498-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T08:29:38.691-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T08:29:38.692-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T08:43:31.075-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T08:43:31.075-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T09:00:44.416-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T09:00:44.416-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T09:06:10.307-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T09:06:10.307-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T09:27:53.239-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T09:27:53.240-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T09:44:47.282-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T09:44:47.283-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T09:54:42.657-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T09:54:42.663-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T09:59:43.277-0500] {manager.py:726} INFO - Searching for files in /Users/shravyayermal/airflow/twitter_dag
+[2023-02-14T09:59:43.281-0500] {manager.py:729} INFO - There are 0 files in /Users/shravyayermal/airflow/twitter_dag
